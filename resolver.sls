@@ -1,7 +1,6 @@
 resolver:
   searchpaths:
-    - callfire.com
-    - eztexting.com
+    - william-albert.com
   nameservers:
     - 169.254.169.254
     - 8.8.8.8
